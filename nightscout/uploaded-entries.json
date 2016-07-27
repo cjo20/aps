@@ -52,11 +52,11 @@
     "op": 94
   }, 
   {
-    "date": 1469657220000, 
+    "date": 1469657520000, 
     "name": "SensorCal", 
     "date_type": "prevTimestamp", 
-    "_tell": 6, 
-    "dateString": "2016-07-27T23:07:00+0100", 
+    "_tell": 4, 
+    "dateString": "2016-07-27T23:12:00+0100", 
     "packet_size": 1, 
     "raw": "00", 
     "waiting": "meter_bg_now", 
@@ -65,11 +65,11 @@
     "op": "0x03"
   }, 
   {
-    "date": 1469657520000, 
+    "date": 1469657820000, 
     "name": "SensorCal", 
     "date_type": "prevTimestamp", 
-    "_tell": 4, 
-    "dateString": "2016-07-27T23:12:00+0100", 
+    "_tell": 2, 
+    "dateString": "2016-07-27T23:17:00+0100", 
     "packet_size": 1, 
     "raw": "00", 
     "waiting": "meter_bg_now", 
