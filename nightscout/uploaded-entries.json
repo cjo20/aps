@@ -50,5 +50,31 @@
     "sgv": 188, 
     "type": "sgv", 
     "op": 94
+  }, 
+  {
+    "date": 1469654220000, 
+    "name": "SensorCal", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "dateString": "2016-07-27T22:17:00+0100", 
+    "packet_size": 1, 
+    "raw": "00", 
+    "waiting": "meter_bg_now", 
+    "device": "openaps://medtronic/pump/cgm", 
+    "type": "pumpdata", 
+    "op": "0x03"
+  }, 
+  {
+    "date": 1469654520000, 
+    "name": "SensorCal", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "dateString": "2016-07-27T22:22:00+0100", 
+    "packet_size": 1, 
+    "raw": "00", 
+    "waiting": "meter_bg_now", 
+    "device": "openaps://medtronic/pump/cgm", 
+    "type": "pumpdata", 
+    "op": "0x03"
   }
 ]
