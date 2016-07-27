@@ -4,7 +4,7 @@
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 169, 
+    "_tell": 171, 
     "dateString": "2016-07-27T13:12:00+0100", 
     "packet_size": 0, 
     "date": 1469621520000, 
@@ -16,7 +16,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 160, 
+    "_tell": 162, 
     "dateString": "2016-07-27T13:18:00+0100", 
     "packet_size": 0, 
     "date": 1469621880000, 
@@ -30,7 +30,7 @@
     "direction": "SingleUp", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 64, 
+    "_tell": 66, 
     "dateString": "2016-07-27T20:08:00+0100", 
     "packet_size": 0, 
     "date": 1469646480000, 
@@ -42,7 +42,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 55, 
+    "_tell": 57, 
     "dateString": "2016-07-27T20:17:00+0100", 
     "packet_size": 0, 
     "date": 1469647020000, 
@@ -52,11 +52,11 @@
     "op": 94
   }, 
   {
-    "date": 1469657820000, 
+    "date": 1469658120000, 
     "name": "SensorCal", 
     "date_type": "prevTimestamp", 
     "_tell": 4, 
-    "dateString": "2016-07-27T23:17:00+0100", 
+    "dateString": "2016-07-27T23:22:00+0100", 
     "packet_size": 1, 
     "raw": "00", 
     "waiting": "meter_bg_now", 
@@ -65,11 +65,11 @@
     "op": "0x03"
   }, 
   {
-    "date": 1469658120000, 
+    "date": 1469658420000, 
     "name": "SensorCal", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
-    "dateString": "2016-07-27T23:22:00+0100", 
+    "dateString": "2016-07-27T23:27:00+0100", 
     "packet_size": 1, 
     "raw": "00", 
     "waiting": "meter_bg_now", 
