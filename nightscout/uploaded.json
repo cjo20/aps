@@ -1,0 +1,48 @@
+[
+  {
+    "created_at": "2016-07-27T21:59:00+01:00", 
+    "_type": "AlarmSensor", 
+    "timestamp": "2016-07-27T21:59:00+01:00", 
+    "_description": "AlarmSensor 2016-07-27T21:59:00 head[3], body[0] op[0x0b]", 
+    "alarm_type": 104, 
+    "alarm_description": "Meter BG Now", 
+    "_body": "", 
+    "_head": "0b6800", 
+    "enteredBy": "openaps://medtronic/554", 
+    "_date": "40fb55bb10", 
+    "eventType": "Note", 
+    "notes": "AlarmSensor 554 ", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/AlarmSensor"
+  }, 
+  {
+    "created_at": "2016-07-27T21:23:30+01:00", 
+    "_type": "AlarmSensor", 
+    "timestamp": "2016-07-27T21:23:30+01:00", 
+    "_description": "AlarmSensor 2016-07-27T21:23:30 head[3], body[0] op[0x0b]", 
+    "alarm_type": 101, 
+    "alarm_description": "High Glucose", 
+    "_body": "", 
+    "_head": "0b65ef", 
+    "enteredBy": "openaps://medtronic/554", 
+    "amount": 239, 
+    "_date": "5ed755bb10", 
+    "eventType": "Note", 
+    "notes": "AlarmSensor 554 ", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/AlarmSensor"
+  }, 
+  {
+    "created_at": "2016-07-27T20:59:00+01:00", 
+    "_type": "AlarmSensor", 
+    "timestamp": "2016-07-27T20:59:00+01:00", 
+    "_description": "AlarmSensor 2016-07-27T20:59:00 head[3], body[0] op[0x0b]", 
+    "alarm_type": 105, 
+    "alarm_description": "Cal Reminder", 
+    "_body": "", 
+    "_head": "0b6900", 
+    "enteredBy": "openaps://medtronic/554", 
+    "_date": "40fb54bb10", 
+    "eventType": "Note", 
+    "notes": "AlarmSensor 554 ", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/AlarmSensor"
+  }
+]
