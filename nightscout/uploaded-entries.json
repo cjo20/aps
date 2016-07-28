@@ -64,33 +64,5 @@
     "sgv": 120, 
     "type": "sgv", 
     "op": 60
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "direction": "FortyFiveUp", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-28T13:57:00+0100", 
-    "packet_size": 0, 
-    "date": 1469710620000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 156, 
-    "type": "sgv", 
-    "op": 78
-  }, 
-  {
-    "trend_arrow": "45_UP", 
-    "direction": "FortyFiveUp", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 2, 
-    "dateString": "2016-07-28T14:02:00+0100", 
-    "packet_size": 0, 
-    "date": 1469710920000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 164, 
-    "type": "sgv", 
-    "op": 82
   }
 ]
