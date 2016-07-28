@@ -78,20 +78,6 @@
     "op": 109
   }, 
   {
-    "trend_arrow": "FLAT", 
-    "direction": "Flat", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-28T23:33:00+0100", 
-    "packet_size": 0, 
-    "date": 1469745180000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 198, 
-    "type": "sgv", 
-    "op": 99
-  }, 
-  {
     "trend_arrow": "45_DOWN", 
     "direction": "FortyFiveDown", 
     "name": "GlucoseSensorData", 
