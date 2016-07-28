@@ -1,24 +1,10 @@
 [
   {
-    "body": "72", 
-    "date": 1469694060000, 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 80, 
-    "dateString": "2016-07-28T09:21:00+0100", 
-    "packet_size": 5, 
-    "raw": "49-d5-9c-90-72", 
-    "amount": 114, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0e"
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 79, 
+    "_tell": 81, 
     "dateString": "2016-07-28T09:21:00+0100", 
     "packet_size": 0, 
     "date": 1469694060000, 
@@ -28,9 +14,23 @@
     "op": 60
   }, 
   {
+    "body": "72", 
+    "date": 1469694060000, 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 82, 
+    "dateString": "2016-07-28T09:21:00+0100", 
+    "packet_size": 5, 
+    "raw": "49-d5-9c-90-72", 
+    "amount": 114, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "type": "pumpdata", 
+    "op": "0x0e"
+  }, 
+  {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 70, 
+    "_tell": 72, 
     "dateString": "2016-07-28T09:32:00+0100", 
     "packet_size": 0, 
     "date": 1469694720000, 
@@ -44,7 +44,7 @@
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 12, 
+    "_tell": 14, 
     "dateString": "2016-07-28T13:18:00+0100", 
     "packet_size": 0, 
     "date": 1469708280000, 
@@ -56,7 +56,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 3, 
+    "_tell": 5, 
     "dateString": "2016-07-28T13:27:00+0100", 
     "packet_size": 0, 
     "date": 1469708820000, 
@@ -64,5 +64,17 @@
     "sgv": 120, 
     "type": "sgv", 
     "op": 60
+  }, 
+  {
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 4, 
+    "dateString": "2016-07-28T13:32:00+0100", 
+    "packet_size": 0, 
+    "date": 1469709120000, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 136, 
+    "type": "sgv", 
+    "op": 68
   }
 ]
