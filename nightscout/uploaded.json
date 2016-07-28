@@ -1,17 +1,1 @@
-[
-  {
-    "created_at": "2016-07-28T16:43:57+01:00", 
-    "_type": "AlarmSensor", 
-    "timestamp": "2016-07-28T16:43:57+01:00", 
-    "_description": "AlarmSensor 2016-07-28T16:43:57 head[3], body[0] op[0x0b]", 
-    "alarm_type": 112, 
-    "alarm_description": "Weak Signal", 
-    "_body": "", 
-    "_head": "0b7000", 
-    "enteredBy": "openaps://medtronic/554", 
-    "_date": "79eb50bc10", 
-    "eventType": "Note", 
-    "notes": "AlarmSensor 554 ", 
-    "medtronic": "mm://openaps/mm-format-ns-treatments/AlarmSensor"
-  }
-]
+[]
