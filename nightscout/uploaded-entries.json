@@ -1,24 +1,10 @@
 [
   {
-    "body": "72", 
-    "date": 1469694060000, 
-    "name": "CalBGForGH", 
-    "date_type": "minSpecific", 
-    "_tell": 68, 
-    "dateString": "2016-07-28T09:21:00+0100", 
-    "packet_size": 5, 
-    "raw": "49-d5-9c-90-72", 
-    "amount": 114, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0e"
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 67, 
+    "_tell": 68, 
     "dateString": "2016-07-28T09:21:00+0100", 
     "packet_size": 0, 
     "date": 1469694060000, 
@@ -28,9 +14,23 @@
     "op": 60
   }, 
   {
+    "body": "72", 
+    "date": 1469694060000, 
+    "name": "CalBGForGH", 
+    "date_type": "minSpecific", 
+    "_tell": 69, 
+    "dateString": "2016-07-28T09:21:00+0100", 
+    "packet_size": 5, 
+    "raw": "49-d5-9c-90-72", 
+    "amount": 114, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "type": "pumpdata", 
+    "op": "0x0e"
+  }, 
+  {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 58, 
+    "_tell": 59, 
     "dateString": "2016-07-28T09:32:00+0100", 
     "packet_size": 0, 
     "date": 1469694720000, 
@@ -45,9 +45,9 @@
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 3, 
-    "dateString": "2016-07-28T13:03:00+0100", 
+    "dateString": "2016-07-28T13:08:00+0100", 
     "packet_size": 0, 
-    "date": 1469707380000, 
+    "date": 1469707680000, 
     "device": "openaps://medtronic/pump/cgm", 
     "sgv": 118, 
     "type": "sgv", 
@@ -59,12 +59,12 @@
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
-    "dateString": "2016-07-28T13:08:00+0100", 
+    "dateString": "2016-07-28T13:13:00+0100", 
     "packet_size": 0, 
-    "date": 1469707680000, 
+    "date": 1469707980000, 
     "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 118, 
+    "sgv": 116, 
     "type": "sgv", 
-    "op": 59
+    "op": 58
   }
 ]
