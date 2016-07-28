@@ -26,44 +26,6 @@
     "op": 94
   }, 
   {
-    "body": "", 
-    "date": 1469670540000, 
-    "name": "BatteryChange", 
-    "date_type": "minSpecific", 
-    "_tell": 10, 
-    "dateString": "2016-07-28T02:49:00+0100", 
-    "packet_size": 4, 
-    "raw": "42-f1-3c-10", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0a"
-  }, 
-  {
-    "body": "", 
-    "date": 1469670540000, 
-    "name": "SensorSync", 
-    "date_type": "minSpecific", 
-    "_tell": 5, 
-    "dateString": "2016-07-28T02:49:00+0100", 
-    "packet_size": 4, 
-    "raw": "42-f1-1c-10", 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0d"
-  }, 
-  {
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-28T02:51:00+0100", 
-    "packet_size": 0, 
-    "date": 1469670660000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 152, 
-    "type": "sgv", 
-    "op": 76
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
