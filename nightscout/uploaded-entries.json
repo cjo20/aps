@@ -120,19 +120,6 @@
     "op": "0x08"
   }, 
   {
-    "date": 1469718420000, 
-    "name": "SensorCalFactor", 
-    "date_type": "minSpecific", 
-    "_tell": 3, 
-    "dateString": "2016-07-28T16:07:00+0100", 
-    "packet_size": 6, 
-    "raw": "50-c7-1c-10-16-52", 
-    "factor": 5.714, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0f"
-  }, 
-  {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
     "_tell": 2, 
