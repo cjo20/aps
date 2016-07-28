@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "_type": "AlarmSensor", 
+    "_description": "AlarmSensor 2016-07-28T14:43:31 head[3], body[0] op[0x0b]", 
+    "alarm_type": 101, 
+    "alarm_description": "High Glucose", 
+    "_body": "", 
+    "_head": "0b65c8", 
+    "enteredBy": "openaps://medtronic/554", 
+    "amount": 200, 
+    "eventType": "Note", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/AlarmSensor", 
+    "timestamp": "2016-07-28T14:43:31+01:00", 
+    "notes": "AlarmSensor 554 ", 
+    "created_at": "2016-07-28T14:43:31+01:00", 
+    "_date": "5feb4ebc10"
+  }
+]
