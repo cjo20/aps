@@ -4,7 +4,7 @@
     "direction": "FortyFiveDown", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 120, 
+    "_tell": 121, 
     "dateString": "2016-07-29T17:44:00+0100", 
     "packet_size": 0, 
     "date": 1469810640000, 
@@ -16,7 +16,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 111, 
+    "_tell": 112, 
     "dateString": "2016-07-29T17:51:00+0100", 
     "packet_size": 0, 
     "date": 1469811060000, 
@@ -26,25 +26,11 @@
     "op": 61
   }, 
   {
-    "trend_arrow": "45_DOWN", 
-    "direction": "FortyFiveDown", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-29T23:48:00+0100", 
-    "packet_size": 0, 
-    "date": 1469832480000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 128, 
-    "type": "sgv", 
-    "op": 64
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 2, 
+    "_tell": 3, 
     "dateString": "2016-07-29T23:53:00+0100", 
     "packet_size": 0, 
     "date": 1469832780000, 
@@ -52,5 +38,19 @@
     "sgv": 126, 
     "type": "sgv", 
     "op": 63
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "direction": "Flat", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "dateString": "2016-07-29T23:58:00+0100", 
+    "packet_size": 0, 
+    "date": 1469833080000, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 124, 
+    "type": "sgv", 
+    "op": 62
   }
 ]
