@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "created_at": "2016-07-29T13:04:50+01:00", 
+    "_type": "Prime", 
+    "_description": "Prime 2016-07-29T13:04:50 head[5], body[0] op[0x03]", 
+    "timestamp": "2016-07-29T13:04:50+01:00", 
+    "notes": "Prime 554 ", 
+    "_head": "0300000086", 
+    "enteredBy": "openaps://medtronic/554", 
+    "amount": 13.4, 
+    "_date": "72c42d1d10", 
+    "eventType": "Note", 
+    "fixed": 0, 
+    "type": "manual", 
+    "_body": "", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Prime"
+  }
+]
