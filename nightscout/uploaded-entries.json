@@ -52,33 +52,6 @@
     "op": 114
   }, 
   {
-    "trend_arrow": "DOUBLE_UP", 
-    "direction": "DoubleUp", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 10, 
-    "dateString": "2016-07-29T08:53:00+0100", 
-    "packet_size": 0, 
-    "date": 1469778780000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 156, 
-    "type": "sgv", 
-    "op": 78
-  }, 
-  {
-    "date": 1469778780000, 
-    "name": "SensorCalFactor", 
-    "date_type": "minSpecific", 
-    "_tell": 3, 
-    "dateString": "2016-07-29T08:53:00+0100", 
-    "packet_size": 6, 
-    "raw": "48-f5-1d-10-1a-d0", 
-    "factor": 6.864, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "type": "pumpdata", 
-    "op": "0x0f"
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
