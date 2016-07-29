@@ -4,7 +4,7 @@
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 148, 
+    "_tell": 149, 
     "dateString": "2016-07-29T13:38:00+0100", 
     "packet_size": 0, 
     "date": 1469795880000, 
@@ -16,7 +16,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 139, 
+    "_tell": 140, 
     "dateString": "2016-07-29T13:44:00+0100", 
     "packet_size": 0, 
     "date": 1469796240000, 
@@ -30,7 +30,7 @@
     "direction": "FortyFiveDown", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 87, 
+    "_tell": 88, 
     "dateString": "2016-07-29T17:44:00+0100", 
     "packet_size": 0, 
     "date": 1469810640000, 
@@ -42,7 +42,7 @@
   {
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 78, 
+    "_tell": 79, 
     "dateString": "2016-07-29T17:51:00+0100", 
     "packet_size": 0, 
     "date": 1469811060000, 
@@ -52,25 +52,11 @@
     "op": 61
   }, 
   {
-    "trend_arrow": "45_DOWN", 
-    "direction": "FortyFiveDown", 
-    "name": "GlucoseSensorData", 
-    "date_type": "prevTimestamp", 
-    "_tell": 3, 
-    "dateString": "2016-07-29T22:21:00+0100", 
-    "packet_size": 0, 
-    "date": 1469827260000, 
-    "device": "openaps://medtronic/pump/cgm", 
-    "sgv": 156, 
-    "type": "sgv", 
-    "op": 78
-  }, 
-  {
     "trend_arrow": "FLAT", 
     "direction": "Flat", 
     "name": "GlucoseSensorData", 
     "date_type": "prevTimestamp", 
-    "_tell": 2, 
+    "_tell": 3, 
     "dateString": "2016-07-29T22:26:00+0100", 
     "packet_size": 0, 
     "date": 1469827560000, 
@@ -78,5 +64,19 @@
     "sgv": 152, 
     "type": "sgv", 
     "op": 76
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "direction": "Flat", 
+    "name": "GlucoseSensorData", 
+    "date_type": "prevTimestamp", 
+    "_tell": 2, 
+    "dateString": "2016-07-29T22:31:00+0100", 
+    "packet_size": 0, 
+    "date": 1469827860000, 
+    "device": "openaps://medtronic/pump/cgm", 
+    "sgv": 148, 
+    "type": "sgv", 
+    "op": 74
   }
 ]
