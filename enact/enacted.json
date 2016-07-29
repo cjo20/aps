@@ -1,0 +1,12 @@
+{
+  "input": {
+    "reason": "BG data is too old, or clock set incorrectly.  Your CGM time is Sat Jul 30 2016 00:33:00 GMT+0100 (BST) but your system time is Sat Jul 30 2016 00:45:44 GMT+0100 (BST)"
+  }, 
+  "reason": "BG data is too old, or clock set incorrectly.  Your CGM time is Sat Jul 30 2016 00:33:00 GMT+0100 (BST) but your system time is Sat Jul 30 2016 00:45:44 GMT+0100 (BST)", 
+  "missing": [
+    "duration", 
+    "rate"
+  ], 
+  "timestamp": "2016-07-30T00:46:00.167576", 
+  "error": "missing required input fields"
+}
