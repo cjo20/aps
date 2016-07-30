@@ -1,98 +1,31 @@
 [
   {
-    "_type": "CalBGForPH", 
-    "_description": "CalBGForPH 2016-07-30T22:39:52 head[2], body[0] op[0x0a]", 
-    "timestamp": "2016-07-30T22:39:52+01:00", 
-    "_body": "", 
-    "glucoseType": "Finger", 
-    "_head": "0a02", 
-    "enteredBy": "openaps://medtronic/554", 
-    "amount": 258, 
-    "_date": "74e7367e90", 
-    "eventType": "BG Check", 
-    "created_at": "2016-07-30T22:39:52+01:00", 
-    "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH", 
-    "glucose": 258
-  }, 
-  {
-    "bg": "14.3", 
-    "ratio": "7.5", 
-    "bolus": {
-      "_type": "Bolus", 
-      "_description": "Bolus 2016-07-30T22:40:28 head[8], body[0] op[0x01]", 
-      "timestamp": "2016-07-30T22:40:28+01:00", 
+    "raw_rate": {
+      "_type": "TempBasal", 
+      "temp": "absolute", 
+      "_description": "TempBasal 2016-07-30T22:44:41 head[2], body[1] op[0x33]", 
+      "timestamp": "2016-07-30T22:44:41+01:00", 
+      "_body": "00", 
+      "_head": "3348", 
+      "rate": 1.8, 
+      "_date": "69ec165e10"
+    }, 
+    "timestamp": "2016-07-30T22:44:41+01:00", 
+    "raw_duration": {
+      "_type": "TempBasalDuration", 
+      "_description": "TempBasalDuration 2016-07-30T22:44:41 head[2], body[0] op[0x16]", 
+      "timestamp": "2016-07-30T22:44:41+01:00", 
       "_body": "", 
-      "appended": [
-        {
-          "_type": "UnabsorbedInsulinBolus", 
-          "_description": "UnabsorbedInsulinBolus unknown head[11], body[0] op[0x5c]", 
-          "_body": "", 
-          "_head": "5c0bf0950454e5041eef04", 
-          "data": [
-            {
-              "amount": 6, 
-              "age": 149
-            }, 
-            {
-              "amount": 2.1, 
-              "age": 229
-            }, 
-            {
-              "amount": 0.75, 
-              "age": 239
-            }
-          ], 
-          "_date": ""
-        }
-      ], 
-      "programmed": 1.75, 
-      "duration": 0, 
-      "amount": 1.75, 
-      "unabsorbed": 2, 
-      "_head": "0100460046005000", 
-      "type": "normal", 
-      "_date": "5ce8561e10"
+      "_head": "1601", 
+      "duration (min)": 30, 
+      "_date": "69ec165e10"
     }, 
-    "timestamp": "2016-07-30T22:40:28+01:00", 
-    "created_at": "2016-07-30T22:40:28+01:00", 
-    "glucoseType": "BolusWizard", 
+    "created_at": "2016-07-30T22:44:41+01:00", 
     "enteredBy": "openaps://medtronic/554", 
-    "wizard": {
-      "_type": "BolusWizard", 
-      "bg": 14.3, 
-      "_description": "BolusWizard 2016-07-30T22:40:28 head[2], body[15] op[0x5b]", 
-      "bg_target_low": 7, 
-      "_body": "0090004b124696000000005000464b", 
-      "carb_input": 0, 
-      "bg_target_high": 7.5, 
-      "sensitivity": 1.8, 
-      "carb_ratio": 7.5, 
-      "food_estimate": 0, 
-      "unabsorbed_insulin_total": 2, 
-      "correction_estimate": 3.75, 
-      "timestamp": "2016-07-30T22:40:28+01:00", 
-      "_head": "5b8f", 
-      "bolus_estimate": 1.75, 
-      "_date": "5ce8161e10"
-    }, 
-    "insulin": 1.75, 
-    "eventType": "Correction Bolus", 
-    "duration": 0, 
-    "notes": "Normal bolus with wizard.\nProgrammed bolus 1.75\nDelivered bolus 1.75\nPercent delivered:  100%\nFood estimate 0\nCorrection estimate 3.75\nBolus estimate 1.75\nTarget low 7\nTarget high 7.5\nHypothetical glucose delta -3.15\nGlucose was: 14.3", 
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Correction Bolus", 
-    "glucose": 14.3
-  }, 
-  {
-    "created_at": "2016-07-30T22:40:06+01:00", 
-    "_type": "Ian50", 
-    "_description": "Ian50 2016-07-30T22:40:06 head[2], body[34] op[0x50]", 
-    "timestamp": "2016-07-30T22:40:06+01:00", 
-    "notes": "Ian50 554 ", 
-    "_head": "5000", 
-    "enteredBy": "openaps://medtronic/554", 
-    "_date": "46e8161e10", 
-    "eventType": "Note", 
-    "_body": "41011e003c14001e3c2379f4642700802040011e003c14001e3c2379f46427008020", 
-    "medtronic": "mm://openaps/mm-format-ns-treatments/Ian50"
+    "rate": 1.8, 
+    "eventType": "Temp Basal", 
+    "duration": 30, 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Temp Basal", 
+    "absolute": 1.8
   }
 ]
