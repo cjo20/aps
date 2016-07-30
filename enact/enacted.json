@@ -1,0 +1,33 @@
+{
+  "bg": 202, 
+  "temp": "absolute", 
+  "snoozeBG": 127, 
+  "recieved": true, 
+  "predBGs": {
+    "IOB": [
+      202, 
+      182, 
+      163, 
+      145, 
+      129, 
+      114, 
+      100, 
+      87, 
+      75, 
+      66, 
+      58, 
+      52, 
+      46, 
+      40, 
+      39
+    ]
+  }, 
+  "rate": 0.7, 
+  "reason": "COB: 0, Dev: 15, BGI: -9.8, ISF: 1.8, Target: 7.3; Eventual BG 7.1 > 7 but Min. Delta -21.00 < Exp. Delta -9.6; setting current basal of 0.7 as temp. Setting neutral temp basal of 0.7U/hr", 
+  "COB": 0, 
+  "eventualBG": 127, 
+  "timestamp": "2016-07-30T22:16:51.142469", 
+  "duration": 30, 
+  "tick": -8, 
+  "IOB": 2.781
+}
