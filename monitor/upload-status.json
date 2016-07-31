@@ -1,0 +1,550 @@
+{
+  "device": "openaps://ediscout", 
+  "pump": {
+    "battery": {
+      "status": "normal", 
+      "voltage": 1.18
+    }, 
+    "status": {
+      "status": "normal", 
+      "timestamp": "2016-07-31T20:40:39.000Z", 
+      "bolusing": false, 
+      "suspended": false
+    }, 
+    "reservoir": 39.65, 
+    "clock": "2016-07-31T21:40:12+01:00"
+  }, 
+  "uploader": {
+    "battery": 100, 
+    "batteryVoltage": 4401
+  }, 
+  "openaps": {
+    "suggested": {
+      "timestamp": "2016-07-31T20:41:04.000Z", 
+      "reason": "BG data is too old, or clock set incorrectly.  Your CGM time is Sat Jul 30 2016 22:42:00 GMT+0100 (BST) but your system time is Sun Jul 31 2016 21:41:04 GMT+0100 (BST)"
+    }, 
+    "iob": [
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T21:40:12.000Z", 
+        "bolussnooze": 1.92, 
+        "activity": 0.038, 
+        "iob": 7.67
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T21:45:12.000Z", 
+        "bolussnooze": 1.162, 
+        "activity": 0.0408, 
+        "iob": 7.49
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T21:50:12.000Z", 
+        "bolussnooze": 0.595, 
+        "activity": 0.0436, 
+        "iob": 7.297
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T21:55:12.000Z", 
+        "bolussnooze": 0.218, 
+        "activity": 0.0465, 
+        "iob": 7.091
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:00:12.000Z", 
+        "bolussnooze": 0.031, 
+        "activity": 0.0493, 
+        "iob": 6.873
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:05:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0521, 
+        "iob": 6.642
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:10:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.055, 
+        "iob": 6.398
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:15:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0578, 
+        "iob": 6.142
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:20:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0606, 
+        "iob": 5.872
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:25:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0635, 
+        "iob": 5.59
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:30:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0663, 
+        "iob": 5.296
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:35:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0612, 
+        "iob": 4.988
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:40:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0645, 
+        "iob": 4.662
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:45:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0658, 
+        "iob": 4.332
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:50:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0646, 
+        "iob": 4.016
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T22:55:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0631, 
+        "iob": 3.712
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:00:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0616, 
+        "iob": 3.421
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:05:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0601, 
+        "iob": 3.141
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:10:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0586, 
+        "iob": 2.874
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:15:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.057, 
+        "iob": 2.618
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:20:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0555, 
+        "iob": 2.374
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:25:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.054, 
+        "iob": 2.142
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:30:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0525, 
+        "iob": 1.922
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:35:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.051, 
+        "iob": 1.714
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:40:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0495, 
+        "iob": 1.518
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:45:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0479, 
+        "iob": 1.334
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:50:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0464, 
+        "iob": 1.162
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-07-31T23:55:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0449, 
+        "iob": 1.001
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:00:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0434, 
+        "iob": 0.853
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:05:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0419, 
+        "iob": 0.716
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:10:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0404, 
+        "iob": 0.591
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:15:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0389, 
+        "iob": 0.478
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:20:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0373, 
+        "iob": 0.377
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:25:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0358, 
+        "iob": 0.288
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:30:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0343, 
+        "iob": 0.211
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:35:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0328, 
+        "iob": 0.146
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:40:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0313, 
+        "iob": 0.093
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:45:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0298, 
+        "iob": 0.052
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:50:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0283, 
+        "iob": 0.022
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T00:55:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0267, 
+        "iob": 0.005
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:00:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0252, 
+        "iob": -0.001
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:05:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0.0051, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:10:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:15:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:20:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:25:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:30:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }, 
+      {
+        "netbasalinsulin": 0, 
+        "hightempinsulin": 0, 
+        "basaliob": 0, 
+        "time": "2016-08-01T01:35:12.000Z", 
+        "bolussnooze": 0, 
+        "activity": 0, 
+        "iob": 0
+      }
+    ], 
+    "enacted": {
+      "input": {
+        "reason": "BG data is too old, or clock set incorrectly.  Your CGM time is Sat Jul 30 2016 22:42:00 GMT+0100 (BST) but your system time is Sun Jul 31 2016 21:41:04 GMT+0100 (BST)"
+      }, 
+      "reason": "BG data is too old, or clock set incorrectly.  Your CGM time is Sat Jul 30 2016 22:42:00 GMT+0100 (BST) but your system time is Sun Jul 31 2016 21:41:04 GMT+0100 (BST)", 
+      "error": "missing required input fields", 
+      "timestamp": "2016-07-31T20:41:19.000Z", 
+      "missing": [
+        "duration", 
+        "rate"
+      ]
+    }
+  }, 
+  "mmtune": {
+    "scanDetails": [
+      [
+        "868.366", 
+        1, 
+        -96
+      ], 
+      [
+        "868.390", 
+        5, 
+        -78
+      ], 
+      [
+        "868.414", 
+        5, 
+        -73
+      ], 
+      [
+        "868.438", 
+        5, 
+        -71
+      ], 
+      [
+        "868.462", 
+        5, 
+        -70
+      ], 
+      [
+        "868.486", 
+        5, 
+        -70
+      ], 
+      [
+        "868.510", 
+        5, 
+        -71
+      ], 
+      [
+        "868.534", 
+        5, 
+        -70
+      ], 
+      [
+        "868.558", 
+        5, 
+        -68
+      ], 
+      [
+        "868.582", 
+        5, 
+        -69
+      ], 
+      [
+        "868.606", 
+        5, 
+        -69
+      ], 
+      [
+        "868.630", 
+        5, 
+        -70
+      ], 
+      [
+        "868.654", 
+        2, 
+        -88
+      ], 
+      [
+        "868.678", 
+        4, 
+        -79
+      ]
+    ], 
+    "setFreq": 868.558, 
+    "timestamp": "2016-07-31T20:39:45.000Z", 
+    "usedDefault": false
+  }
+}
