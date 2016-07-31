@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "carbs": "40", 
+    "square": {
+      "programmed": 3, 
+      "_type": "Bolus", 
+      "_description": "Bolus 2016-07-31T13:40:43 head[8], body[0] op[0x01]", 
+      "timestamp": "2016-07-31T13:40:43+01:00", 
+      "_body": "", 
+      "_head": "0100780000000001", 
+      "amount": 0, 
+      "unabsorbed": 0, 
+      "duration": 30, 
+      "type": "square", 
+      "_date": "6be8ad1f10"
+    }, 
+    "ratio": "7.5", 
+    "bolus": {
+      "programmed": 5, 
+      "_type": "Bolus", 
+      "_description": "Bolus 2016-07-31T13:40:43 head[8], body[0] op[0x01]", 
+      "timestamp": "2016-07-31T13:40:43+01:00", 
+      "_body": "", 
+      "_head": "0100c800c8000000", 
+      "amount": 5, 
+      "unabsorbed": 0, 
+      "duration": 0, 
+      "type": "normal", 
+      "_date": "6be88d1f10"
+    }, 
+    "timestamp": "2016-07-31T13:40:43+01:00", 
+    "created_at": "2016-07-31T13:40:43+01:00", 
+    "glucoseType": "BolusWizard", 
+    "enteredBy": "openaps://medtronic/554", 
+    "wizard": {
+      "_type": "BolusWizard", 
+      "bg": 13.5, 
+      "bg_target_low": 6, 
+      "_description": "BolusWizard 2016-07-31T13:40:43 head[2], body[15] op[0x5b]", 
+      "timestamp": "2016-07-31T13:40:43+01:00", 
+      "_body": "2890004b123c9000d4000000016446", 
+      "bg_target_high": 7, 
+      "carb_ratio": 7.5, 
+      "food_estimate": 5.3, 
+      "unabsorbed_insulin_total": 0, 
+      "correction_estimate": 3.6, 
+      "carb_input": 40, 
+      "_head": "5b87", 
+      "bolus_estimate": 8.9, 
+      "sensitivity": 1.8, 
+      "_date": "6be80d1f10"
+    }, 
+    "bg": "13.5", 
+    "insulin": "5", 
+    "eventType": "Meal Bolus", 
+    "duration": "30", 
+    "notes": "DualWave bolus for 30 minutes\nProgrammed bolus 5\nDelivered bolus 5\nPercent delivered:  100%\nProgrammed square 3\nDelivered square 0\nSuccess:  0%\nFood estimate 5.3\nCorrection estimate 3.6\nBolus estimate 8.9\nTarget low 6\nTarget high 7\nHypothetical glucose delta -9\nGlucose was: 13.5", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/Meal Bolus", 
+    "glucose": "13.5"
+  }, 
+  {
+    "_type": "CalBGForPH", 
+    "_description": "CalBGForPH 2016-07-31T13:40:12 head[2], body[0] op[0x0a]", 
+    "timestamp": "2016-07-31T13:40:12+01:00", 
+    "_body": "", 
+    "glucoseType": "Finger", 
+    "_head": "0af3", 
+    "enteredBy": "openaps://medtronic/554", 
+    "amount": 243, 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH", 
+    "eventType": "BG Check", 
+    "created_at": "2016-07-31T13:40:12+01:00", 
+    "_date": "4ce82d7f10", 
+    "glucose": 243
+  }
+]
