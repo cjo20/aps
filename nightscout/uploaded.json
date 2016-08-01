@@ -1,17 +1,51 @@
 [
   {
-    "_type": "CalBGForPH", 
-    "_description": "CalBGForPH 2016-08-01T09:51:49 head[2], body[0] op[0x0a]", 
-    "timestamp": "2016-08-01T09:51:49+01:00", 
-    "_body": "", 
-    "glucoseType": "Finger", 
-    "_head": "0ad6", 
+    "bg": "11.9", 
+    "ratio": "7.5", 
+    "glucoseType": "BolusWizard", 
+    "timestamp": "2016-08-01T09:55:11+01:00", 
+    "created_at": "2016-08-01T09:55:11+01:00", 
+    "wizard": {
+      "_type": "BolusWizard", 
+      "bg": 11.9, 
+      "_description": "BolusWizard 2016-08-01T09:55:11 head[2], body[15] op[0x5b]", 
+      "bg_target_low": 6, 
+      "_body": "0090004b123c6c0000000000006c46", 
+      "appended": [
+        {
+          "_type": "UnabsorbedInsulinBolus", 
+          "_description": "UnabsorbedInsulinBolus unknown head[8], body[0] op[0x5c]", 
+          "_body": "", 
+          "_head": "5c08409e1444a814", 
+          "data": [
+            {
+              "amount": 1.6, 
+              "age": 414
+            }, 
+            {
+              "amount": 1.7, 
+              "age": 424
+            }
+          ], 
+          "_date": ""
+        }
+      ], 
+      "bg_target_high": 7, 
+      "sensitivity": 1.8, 
+      "carb_input": 0, 
+      "carb_ratio": 7.5, 
+      "food_estimate": 0, 
+      "unabsorbed_insulin_total": 0, 
+      "correction_estimate": 2.7, 
+      "timestamp": "2016-08-01T09:55:11+01:00", 
+      "_head": "5b77", 
+      "bolus_estimate": 2.7, 
+      "_date": "8b37090110"
+    }, 
     "enteredBy": "openaps://medtronic/554", 
-    "amount": 214, 
-    "_date": "b133296110", 
-    "eventType": "BG Check", 
-    "created_at": "2016-08-01T09:51:49+01:00", 
-    "medtronic": "mm://openaps/mm-format-ns-treatments/CalBGForPH", 
-    "glucose": 214
+    "eventType": "<none>", 
+    "notes": "Food estimate 0\nCorrection estimate 2.7\nBolus estimate 2.7\nTarget low 6\nTarget high 7\nHypothetical glucose delta 0\nGlucose was: 11.9", 
+    "medtronic": "mm://openaps/mm-format-ns-treatments/<none>", 
+    "glucose": 11.9
   }
 ]
